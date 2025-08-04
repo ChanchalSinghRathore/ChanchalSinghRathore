@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-zeta-nine-72.vercel.app/](https://portfolio-zeta-nine-72.vercel.app/)
 
-- 📝 I regularly write articles on [software development, tech trends, and startup journeys.](software development, tech trends, and startup journeys.)
+- 📝 I regularly write articles on software development, tech trends.
 
 - 💬 Ask me about **my belief in creating impact at scale.**
 

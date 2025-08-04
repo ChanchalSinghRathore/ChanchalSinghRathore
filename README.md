@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **chanchal151003@gmail.com**
 
-- ⚡ Fun fact **Most of my ideas start as jokes and end as products.**
+- ⚡ Fun fact **Most of the ideas start as jokes and end as products.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

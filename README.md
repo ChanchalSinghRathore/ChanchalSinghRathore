@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chanchal Singh Rathore</h1>
+<h1 align="center">Hi 👋, I'm Ranvijayy Singh Rathore</h1>
 <h3 align="center">Software Engineer | MERN Stack | Problem Solver</h3>
 
 - 🔭 I’m currently working on **my startup ideas and cool tech projects.**

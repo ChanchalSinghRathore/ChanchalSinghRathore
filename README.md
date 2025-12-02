@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **ideas and new tech.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-zeta-nine-72.vercel.app/](https://ranvijayy.vercel.app)
+- 👨‍💻 All of my projects are available at [https://ranvijayy.vercel.app](https://ranvijayy.vercel.app)
 
 - 📝 I regularly write articles on software development, tech trends.
 
